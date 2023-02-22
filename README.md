@@ -28,3 +28,23 @@ df.rename(columns={'Cost of Living Plus Rent avg' : 'Custo de vida mais aluguel 
 ---
 print(df)
 
+###  Imagem do script python inserido no Power BI:
+---
+![script01](https://user-images.githubusercontent.com/125930758/220777303-e1a08293-abd7-435e-8802-2aa84d138198.png)
+---
+![script02](https://user-images.githubusercontent.com/125930758/220777414-a5adead7-9072-4db5-85b0-000df56fa955.png)
+---
+### Imagem da tabela no Power Query:
+---
+![tabelapowequery01](https://user-images.githubusercontent.com/125930758/220778759-3835229a-b4e5-4de6-a872-49ad76a6eb3d.png)
+
+![tabelapowequery02](https://user-images.githubusercontent.com/125930758/220778858-49259c89-5235-4801-9143-e325122fa1cb.png)
+
+---
+### Imagem  da tabela final no Power BI:
+---
+![tabela final](https://user-images.githubusercontent.com/125930758/220777831-f50b82bb-c92d-4935-88a5-8e9cab215068.png)
+### Gráfico pizza e de barra com resultado alcançado no Power Bi:
+___
+![grafico01](https://user-images.githubusercontent.com/125930758/220778312-d9823d91-7e55-4548-85af-f8f8364efaea.png)
+![grafico02](https://user-images.githubusercontent.com/125930758/220778343-10ca9523-c73e-4128-b15e-307e2dc2a165.png)
